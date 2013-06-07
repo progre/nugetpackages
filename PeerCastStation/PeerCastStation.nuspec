@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PeerCastStation</id>
+    <title>PeerCastStation</title>
+    <version>1.4.0</version>
+    <authors>arekuma</authors>
+    <owners>progre</owners>
+    <summary>PeerCastStation</summary>
+    <description>PeerCastStation is an application that remade PeerCast. You can use as substitute for PeerCast.exe</description>
+    <projectUrl>http://www.pecastation.org/</projectUrl>
+    <tags>PeerCastStation PeerCast network</tags>
+    <copyright>Copyright © arekuma 2011</copyright>
+    <licenseUrl>http://www.pecastation.org/misc.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://raw.github.com/progre/nugetpackages/master/PeerCastStation/PeerCastStation.gif</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>
